@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="MTGCollection.Properties.Settings.DbContext" connectionString="server=localhost;user id=mtg-app;password={password};persistsecurityinfo=True;database=mtg;" />
+    </connectionStrings>
+</configuration>
